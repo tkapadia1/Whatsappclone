@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247688932633",
+    "project_id": "texting-88f5c",
+    "storage_bucket": "texting-88f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247688932633:android:0ae656ce65b26f69226988",
+        "android_client_info": {
+          "package_name": "com.example.whats_app_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247688932633-6usothqjlt4tjfm6083327j4nf0gis81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZC6D2CpenOSdeNrMtrEQiAs_Yj9PgXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247688932633-6usothqjlt4tjfm6083327j4nf0gis81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
